@@ -1,0 +1,7 @@
+com.insearchoftheperfectcuisine.game.test.android-androidTest-0 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\generated\res\resValues\androidTest\debug
+com.insearchoftheperfectcuisine.game.test.android-androidTest-1 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\generated\res\rs\androidTest\debug
+com.insearchoftheperfectcuisine.game.test.android-mergeDebugAndroidTestResources-2 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.insearchoftheperfectcuisine.game.test.android-mergeDebugAndroidTestResources-3 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.insearchoftheperfectcuisine.game.test.android-merged_res-4 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\intermediates\merged_res\debugAndroidTest
+com.insearchoftheperfectcuisine.game.test.android-androidTest-5 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\src\androidTest\res
+com.insearchoftheperfectcuisine.game.test.android-androidTestDebug-6 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\src\androidTestDebug\res

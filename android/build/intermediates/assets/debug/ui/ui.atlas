@@ -1,0 +1,17 @@
+ui.png
+size:256,128
+repeat:none
+checkboxOff
+	bounds:104,47,25,25
+checkboxOn
+	bounds:141,101,25,25
+cursor
+	bounds:2,2,2,10
+listBackground
+	bounds:104,74,25,25
+select
+	bounds:104,101,35,25
+vScroll
+	bounds:2,14,5,10
+window
+	bounds:2,26,100,100

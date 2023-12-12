@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] C:\Users\luciu\.gradle\caches\transforms-3\6d40de01e692a9de872245672e70ab3e\transformed\jetified-gdx-controllers-android-2.2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.0] C:\Users\luciu\.gradle\caches\transforms-3\b90e07013e8be625823876ea8debd982\transformed\jetified-gdx-backend-android-1.12.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\luciu\.gradle\caches\transforms-3\33fa74ef3adc7aa8793bc96ddce7df31\transformed\fragment-1.5.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\luciu\.gradle\caches\transforms-3\a6c733f8f71137286985e36c09f4a7fa\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\623562d0144210073662b5b65ff9c1e4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\2018c491237da949f43b39ad0b292051\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\c65dd242639c36eec8a8260cffa7a048\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\luciu\.gradle\caches\transforms-3\9536b23185e511e223ea4c7bc754ed64\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\c87f552e3671f0369aea95503c42af60\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\55cdbe7ab850b5365aebb82bf8a27de0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luciu\.gradle\caches\transforms-3\317c7758eeedf58bd087ddcdfaaed2d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\luciu\.gradle\caches\transforms-3\923820f5fa280ad33a7333493029fe67\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\d895f219787724774ad35524557f30ae\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\3e5732256150f3c878cfe7862c9770be\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luciu\.gradle\caches\transforms-3\f560c18f65ad8e2eb9d19489fafc1159\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\daf558e5c8814d84b3937873744df664\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luciu\.gradle\caches\transforms-3\47e714eee9f811aa6a2eeffd0b2b4a2b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\luciu\.gradle\caches\transforms-3\1faf7007644fbc9c3aaa30cc9b8ec574\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+	package
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:5:5-78
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.0] C:\Users\luciu\.gradle\caches\transforms-3\b90e07013e8be625823876ea8debd982\transformed\jetified-gdx-backend-android-1.12.0\AndroidManifest.xml:9:5-11:35
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.0] C:\Users\luciu\.gradle\caches\transforms-3\b90e07013e8be625823876ea8debd982\transformed\jetified-gdx-backend-android-1.12.0\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:5:52-75
+application
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:7:5-27:19
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] C:\Users\luciu\.gradle\caches\transforms-3\6d40de01e692a9de872245672e70ab3e\transformed\jetified-gdx-controllers-android-2.2.1\AndroidManifest.xml:9:5-20
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] C:\Users\luciu\.gradle\caches\transforms-3\6d40de01e692a9de872245672e70ab3e\transformed\jetified-gdx-controllers-android-2.2.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.8.0] C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luciu\.gradle\caches\transforms-3\317c7758eeedf58bd087ddcdfaaed2d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luciu\.gradle\caches\transforms-3\317c7758eeedf58bd087ddcdfaaed2d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:9:9-41
+	android:appCategory
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:12:9-35
+	tools:ignore
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:15:9-39
+	android:icon
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:14:9-40
+	android:isGame
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:11:9-30
+activity#com.insearchoftheperfectcuisine.game.AndroidLauncher
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:19:13-50
+	android:label
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:21:13-36
+	android:configChanges
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:20:13-107
+	android:name
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:17:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] C:\Users\luciu\.gradle\caches\transforms-3\6d40de01e692a9de872245672e70ab3e\transformed\jetified-gdx-controllers-android-2.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] C:\Users\luciu\.gradle\caches\transforms-3\6d40de01e692a9de872245672e70ab3e\transformed\jetified-gdx-controllers-android-2.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.0] C:\Users\luciu\.gradle\caches\transforms-3\b90e07013e8be625823876ea8debd982\transformed\jetified-gdx-backend-android-1.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.0] C:\Users\luciu\.gradle\caches\transforms-3\b90e07013e8be625823876ea8debd982\transformed\jetified-gdx-backend-android-1.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\luciu\.gradle\caches\transforms-3\33fa74ef3adc7aa8793bc96ddce7df31\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\luciu\.gradle\caches\transforms-3\33fa74ef3adc7aa8793bc96ddce7df31\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\luciu\.gradle\caches\transforms-3\a6c733f8f71137286985e36c09f4a7fa\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\luciu\.gradle\caches\transforms-3\a6c733f8f71137286985e36c09f4a7fa\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\623562d0144210073662b5b65ff9c1e4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\623562d0144210073662b5b65ff9c1e4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\2018c491237da949f43b39ad0b292051\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\2018c491237da949f43b39ad0b292051\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\c65dd242639c36eec8a8260cffa7a048\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\c65dd242639c36eec8a8260cffa7a048\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\luciu\.gradle\caches\transforms-3\9536b23185e511e223ea4c7bc754ed64\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\luciu\.gradle\caches\transforms-3\9536b23185e511e223ea4c7bc754ed64\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\c87f552e3671f0369aea95503c42af60\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\c87f552e3671f0369aea95503c42af60\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\55cdbe7ab850b5365aebb82bf8a27de0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\55cdbe7ab850b5365aebb82bf8a27de0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luciu\.gradle\caches\transforms-3\317c7758eeedf58bd087ddcdfaaed2d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luciu\.gradle\caches\transforms-3\317c7758eeedf58bd087ddcdfaaed2d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\luciu\.gradle\caches\transforms-3\923820f5fa280ad33a7333493029fe67\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\luciu\.gradle\caches\transforms-3\923820f5fa280ad33a7333493029fe67\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\d895f219787724774ad35524557f30ae\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\d895f219787724774ad35524557f30ae\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\3e5732256150f3c878cfe7862c9770be\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luciu\.gradle\caches\transforms-3\3e5732256150f3c878cfe7862c9770be\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luciu\.gradle\caches\transforms-3\f560c18f65ad8e2eb9d19489fafc1159\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luciu\.gradle\caches\transforms-3\f560c18f65ad8e2eb9d19489fafc1159\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\daf558e5c8814d84b3937873744df664\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\luciu\.gradle\caches\transforms-3\daf558e5c8814d84b3937873744df664\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luciu\.gradle\caches\transforms-3\47e714eee9f811aa6a2eeffd0b2b4a2b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luciu\.gradle\caches\transforms-3\47e714eee9f811aa6a2eeffd0b2b4a2b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\luciu\.gradle\caches\transforms-3\1faf7007644fbc9c3aaa30cc9b8ec574\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\luciu\.gradle\caches\transforms-3\1faf7007644fbc9c3aaa30cc9b8ec574\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		ADDED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml
+		INJECTED from C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\AndroidManifest.xml

@@ -1,0 +1,389 @@
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Size
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$SizeMetrics
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.fragment.app.Fragment$6
+kotlin.internal.jdk8.JDK8PlatformImplementations
+kotlin.internal.jdk7.JDK7PlatformImplementations
+kotlinx.coroutines.android.AndroidExceptionPreHandler
+com.badlogic.gdx.physics.box2d.Body
+androidx.lifecycle.SavedStateHandleController
+com.badlogic.gdx.physics.box2d.Contact
+androidx.activity.ComponentActivity$5
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.core.app.RemoteActionCompatParcelizer
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphSlot
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+com.badlogic.gdx.physics.box2d.PolygonShape
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+android.support.v4.app.RemoteActionCompatParcelizer
+com.badlogic.gdx.physics.box2d.ContactImpulse
+kotlinx.coroutines.android.AndroidDispatcherFactory
+com.insearchoftheperfectcuisine.game.AndroidLauncher
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Bitmap
+androidx.versionedparcelable.ParcelImpl
+androidx.fragment.app.FragmentManager$6
+androidx.lifecycle.Lifecycling$1
+com.badlogic.gdx.physics.box2d.World
+androidx.lifecycle.SingleGeneratedAdapterObserver
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face
+com.badlogic.gdx.graphics.glutils.ETC1
+com.badlogic.gdx.graphics.g2d.freetype.FreeType
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.savedstate.Recreator
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Stroker
+androidx.activity.result.ActivityResultRegistry$1
+com.badlogic.gdx.controllers.android.AndroidControllers
+androidx.core.graphics.drawable.IconCompat
+androidx.core.app.CoreComponentFactory
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.annotation.Keep
+com.badlogic.gdx.utils.BufferUtils
+com.badlogic.gdx.physics.box2d.Shape
+com.badlogic.gdx.physics.box2d.Fixture
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Library
+androidx.activity.ImmLeaksCleaner
+com.badlogic.gdx.physics.box2d.Manifold
+androidx.lifecycle.LegacySavedStateHandleController$1
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.activity.ComponentActivity$3
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphMetrics
+androidx.lifecycle.SavedStateHandleAttacher
+androidx.core.app.RemoteActionCompat
+com.badlogic.gdx.controllers.android.ControllerLifeCycleListener
+androidx.activity.ComponentActivity$4
+androidx.lifecycle.FullLifecycleObserverAdapter
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+com.badlogic.gdx.math.Matrix4
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+kotlinx.coroutines.CancelledContinuation: int _resumed
+kotlinx.coroutines.CompletedExceptionally: int _handled
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+kotlinx.coroutines.CancellableContinuationImpl: int _decision
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key key
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.reflect.Method preHandler()
+com.badlogic.gdx.Files$FileType: com.badlogic.gdx.Files$FileType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph: int getLeft(long)
+com.badlogic.gdx.Application$ApplicationType: com.badlogic.gdx.Application$ApplicationType[] values()
+com.badlogic.gdx.utils.BufferUtils: void copyJni(java.nio.Buffer,int,java.nio.Buffer,int,int)
+com.badlogic.gdx.Input$Orientation: com.badlogic.gdx.Input$Orientation[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: int getCharIndex(long,int)
+com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType: com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType[] values()
+com.badlogic.gdx.graphics.g2d.TextureAtlas$TextureAtlasData$Region: TextureAtlas$TextureAtlasData$Region()
+com.badlogic.gdx.utils.Queue: Queue()
+com.badlogic.gdx.scenes.scene2d.Action: Action()
+com.badlogic.gdx.utils.StringBuilder: StringBuilder()
+com.badlogic.gdx.controllers.android.ControllerLifeCycleListener: ControllerLifeCycleListener(com.badlogic.gdx.controllers.android.AndroidControllers)
+kotlinx.coroutines.NodeList: NodeList()
+kotlinx.coroutines.android.HandlerDispatcher: HandlerDispatcher()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: int getFaceFlags(long)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.badlogic.gdx.scenes.scene2d.Actor: Actor()
+com.badlogic.gdx.utils.Pool: Pool()
+com.badlogic.gdx.utils.IntArray: IntArray()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$SizeMetrics: int getAscender(long)
+com.badlogic.gdx.utils.ObjectIntMap: ObjectIntMap()
+kotlinx.coroutines.CancelHandler: CancelHandler()
+com.badlogic.gdx.utils.JsonWriter$OutputType: com.badlogic.gdx.utils.JsonWriter$OutputType[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator$Hinting: com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator$Hinting[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Stroker: void done(long)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphMetrics: int getHoriAdvance(long)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(float[],java.nio.Buffer,int,int)
+com.badlogic.gdx.graphics.Mesh$VertexDataType: com.badlogic.gdx.graphics.Mesh$VertexDataType valueOf(java.lang.String)
+kotlinx.coroutines.internal.OpDescriptor: OpDescriptor()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: int getNumGlyphs(long)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(byte[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: ImageButton$ImageButtonStyle()
+com.badlogic.gdx.maps.tiled.TiledMapTile$BlendMode: com.badlogic.gdx.maps.tiled.TiledMapTile$BlendMode[] values()
+com.badlogic.gdx.math.collision.Ray: Ray()
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void clear(long,int)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+kotlin.coroutines.AbstractCoroutineContextElement: java.lang.Object fold(java.lang.Object,kotlin.jvm.functions.Function2)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+com.badlogic.gdx.scenes.scene2d.InputEvent$Type: com.badlogic.gdx.scenes.scene2d.InputEvent$Type valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.actions.SequenceAction: SequenceAction()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Bitmap: int getPixelMode(long)
+com.badlogic.gdx.scenes.scene2d.InputEvent$Type: com.badlogic.gdx.scenes.scene2d.InputEvent$Type[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph: void done(long)
+com.badlogic.gdx.math.Matrix4: void prj(float[],float[],int,int,int)
+com.badlogic.gdx.scenes.scene2d.actions.MoveToAction: MoveToAction()
+com.badlogic.gdx.utils.IntMap$Entry: IntMap$Entry()
+com.badlogic.gdx.files.FileHandle: FileHandle()
+com.badlogic.gdx.scenes.scene2d.Group: Group()
+com.badlogic.gdx.physics.box2d.World: boolean reportFixture(long)
+com.badlogic.gdx.graphics.Pixmap$Blending: com.badlogic.gdx.graphics.Pixmap$Blending[] values()
+com.badlogic.gdx.graphics.TextureData$TextureDataType: com.badlogic.gdx.graphics.TextureData$TextureDataType[] values()
+com.badlogic.gdx.maps.MapObject: MapObject()
+com.badlogic.gdx.graphics.Texture$TextureFilter: com.badlogic.gdx.graphics.Texture$TextureFilter[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: boolean hasKerning(long)
+com.badlogic.gdx.scenes.scene2d.actions.RunnableAction: RunnableAction()
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: ScrollPane$ScrollPaneStyle()
+com.badlogic.gdx.math.Rectangle: Rectangle()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.MainCoroutineDispatcher: MainCoroutineDispatcher()
+com.badlogic.gdx.graphics.glutils.ETC1: int getHeightPKM(java.nio.ByteBuffer,int)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: long getSize(long)
+com.badlogic.gdx.math.Vector2: Vector2()
+com.badlogic.gdx.scenes.scene2d.ui.Skin: Skin()
+com.badlogic.gdx.graphics.Texture$TextureWrap: com.badlogic.gdx.graphics.Texture$TextureWrap[] values()
+com.badlogic.gdx.maps.tiled.TiledMapTileSet: TiledMapTileSet()
+com.badlogic.gdx.utils.ObjectSet: ObjectSet()
+com.badlogic.gdx.utils.JsonWriter$OutputType: com.badlogic.gdx.utils.JsonWriter$OutputType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Library: long strokerNew(long)
+com.badlogic.gdx.utils.Timer: Timer()
+kotlinx.coroutines.CompletionHandlerBase: CompletionHandlerBase()
+com.badlogic.gdx.scenes.scene2d.utils.BaseDrawable: BaseDrawable()
+com.badlogic.gdx.physics.box2d.World: void endContact(long)
+com.badlogic.gdx.utils.JsonValue$ValueType: com.badlogic.gdx.utils.JsonValue$ValueType[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Bitmap: int getWidth(long)
+kotlinx.coroutines.internal.AtomicOp: AtomicOp()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType: int getLastErrorCode()
+com.badlogic.gdx.physics.box2d.BodyDef$BodyType: com.badlogic.gdx.physics.box2d.BodyDef$BodyType[] values()
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void setBlend(long,int)
+com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable: TextureRegionDrawable()
+com.badlogic.gdx.graphics.Pixmap$Filter: com.badlogic.gdx.graphics.Pixmap$Filter valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: TextButton$TextButtonStyle()
+com.badlogic.gdx.graphics.Cursor$SystemCursor: com.badlogic.gdx.graphics.Cursor$SystemCursor[] values()
+com.badlogic.gdx.utils.ObjectFloatMap: ObjectFloatMap()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.badlogic.gdx.physics.box2d.World: void preSolve(long,long)
+kotlinx.coroutines.internal.LockFreeLinkedListHead: LockFreeLinkedListHead()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: void doneFace(long)
+com.badlogic.gdx.scenes.scene2d.Stage$TouchFocus: Stage$TouchFocus()
+com.badlogic.gdx.controllers.android.AndroidControllerEvent: AndroidControllerEvent()
+com.badlogic.gdx.graphics.glutils.GLVersion$Type: com.badlogic.gdx.graphics.glutils.GLVersion$Type[] values()
+com.badlogic.gdx.maps.MapGroupLayer: MapGroupLayer()
+com.badlogic.gdx.Input$Orientation: com.badlogic.gdx.Input$Orientation valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.badlogic.gdx.graphics.Mesh$VertexDataType: com.badlogic.gdx.graphics.Mesh$VertexDataType[] values()
+com.badlogic.gdx.scenes.scene2d.utils.TiledDrawable: TiledDrawable()
+com.badlogic.gdx.utils.ObjectMap: ObjectMap()
+kotlinx.coroutines.scheduling.WorkQueue: WorkQueue()
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: java.nio.ByteBuffer newPixmap(long[],int,int,int)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type: com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.Body: long jniCreateFixture(long,long,float,float,float,boolean,short,short,short)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void setPixel(long,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void drawPixmap(long,long,int,int,int,int,int,int,int,int)
+kotlin.internal.jdk7.JDK7PlatformImplementations: JDK7PlatformImplementations()
+com.badlogic.gdx.utils.OrderedMap: OrderedMap()
+com.badlogic.gdx.graphics.Cursor$SystemCursor: com.badlogic.gdx.graphics.Cursor$SystemCursor valueOf(java.lang.String)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+com.badlogic.gdx.math.Vector3: Vector3()
+com.badlogic.gdx.scenes.scene2d.ui.Table: Table()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+com.badlogic.gdx.scenes.scene2d.ui.SplitPane$SplitPaneStyle: SplitPane$SplitPaneStyle()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+com.badlogic.gdx.physics.box2d.Body: void jniSetLinearVelocity(long,float,float)
+kotlin.jvm.internal.Intrinsics: Intrinsics()
+kotlinx.coroutines.JobNode: JobNode()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.badlogic.gdx.graphics.g2d.BitmapFont: BitmapFont()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.collection.SimpleArrayMap: SimpleArrayMap()
+com.badlogic.gdx.scenes.scene2d.ui.Table$DebugRect: Table$DebugRect()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+kotlin.internal.PlatformImplementations: PlatformImplementations()
+com.badlogic.gdx.utils.BufferUtils: java.nio.ByteBuffer newDisposableByteBuffer(int)
+com.badlogic.gdx.graphics.Color: Color()
+com.badlogic.gdx.maps.tiled.TiledMapTileLayer$Cell: TiledMapTileLayer$Cell()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: boolean setPixelSizes(long,int,int)
+com.badlogic.gdx.graphics.Texture$TextureWrap: com.badlogic.gdx.graphics.Texture$TextureWrap valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void free(long)
+com.badlogic.gdx.physics.box2d.Shape: void jniDispose(long)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph: int getTop(long)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+kotlin.collections.IntIterator: IntIterator()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: long getGlyph(long)
+com.badlogic.gdx.math.Ellipse: Ellipse()
+com.badlogic.gdx.controllers.android.AndroidControllers: AndroidControllers()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext minusKey(kotlin.coroutines.CoroutineContext$Key)
+com.badlogic.gdx.Input$OnscreenKeyboardType: com.badlogic.gdx.Input$OnscreenKeyboardType valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: TextTooltip$TextTooltipStyle()
+com.badlogic.gdx.physics.box2d.BodyDef$BodyType: com.badlogic.gdx.physics.box2d.BodyDef$BodyType valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: ProgressBar$ProgressBarStyle()
+com.badlogic.gdx.utils.OrderedSet: OrderedSet()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph: long toBitmap(long,int)
+com.insearchoftheperfectcuisine.game.AndroidLauncher: AndroidLauncher()
+com.badlogic.gdx.physics.box2d.Body: void jniGetPosition(long,float[])
+kotlinx.coroutines.EventLoop: EventLoop()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Library: long newMemoryFace(long,java.nio.ByteBuffer,int,int)
+kotlinx.coroutines.JobCancellingNode: JobCancellingNode()
+com.badlogic.gdx.graphics.glutils.GLVersion$Type: com.badlogic.gdx.graphics.glutils.GLVersion$Type valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: Window$WindowStyle()
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: Button$ButtonStyle()
+com.badlogic.gdx.math.Quaternion: Quaternion()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+com.badlogic.gdx.scenes.scene2d.ui.Cell: Cell()
+com.badlogic.gdx.maps.MapLayer: MapLayer()
+com.badlogic.gdx.graphics.Pixmap$Filter: com.badlogic.gdx.graphics.Pixmap$Filter[] values()
+com.badlogic.gdx.scenes.scene2d.utils.ChangeListener$ChangeEvent: ChangeListener$ChangeEvent()
+kotlinx.coroutines.internal.ThreadSafeHeap: ThreadSafeHeap()
+com.badlogic.gdx.graphics.glutils.HdpiMode: com.badlogic.gdx.graphics.glutils.HdpiMode[] values()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+com.badlogic.gdx.graphics.g2d.TextureAtlas$TextureAtlasData$Page: TextureAtlas$TextureAtlasData$Page()
+com.badlogic.gdx.utils.JsonValue$ValueType: com.badlogic.gdx.utils.JsonValue$ValueType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Texture$TextureFilter: com.badlogic.gdx.graphics.Texture$TextureFilter valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: int getKerning(long,int,int,int)
+com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type: com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type[] values()
+com.badlogic.gdx.graphics.Pixmap$Blending: com.badlogic.gdx.graphics.Pixmap$Blending valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.Touchable: com.badlogic.gdx.scenes.scene2d.Touchable[] values()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Bitmap: int getRows(long)
+com.badlogic.gdx.Files$FileType: com.badlogic.gdx.Files$FileType[] values()
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: Slider$SliderStyle()
+com.badlogic.gdx.physics.box2d.PolygonShape: long newPolygonShape()
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext plus(kotlin.coroutines.CoroutineContext)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+com.badlogic.gdx.graphics.g2d.Sprite: Sprite()
+com.badlogic.gdx.graphics.glutils.ETC1: void decodeImage(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,int,int)
+com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle: Tree$TreeStyle()
+com.badlogic.gdx.physics.box2d.World: void beginContact(long)
+com.badlogic.gdx.scenes.scene2d.InputEvent: InputEvent()
+com.badlogic.gdx.utils.ObjectMap$Entry: ObjectMap$Entry()
+com.badlogic.gdx.physics.box2d.World: float reportRayFixture(long,float,float,float,float,float)
+com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent: FocusListener$FocusEvent()
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: TextField$TextFieldStyle()
+com.badlogic.gdx.physics.box2d.World: long newWorld(float,float,boolean)
+com.badlogic.gdx.scenes.scene2d.ui.Table$Debug: com.badlogic.gdx.scenes.scene2d.ui.Table$Debug[] values()
+com.badlogic.gdx.utils.FloatArray: FloatArray()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType: long initFreeTypeJni()
+com.badlogic.gdx.utils.Timer$Task: Timer$Task()
+com.badlogic.gdx.scenes.scene2d.ui.Table$Debug: com.badlogic.gdx.scenes.scene2d.ui.Table$Debug valueOf(java.lang.String)
+com.badlogic.gdx.utils.ArrayMap: ArrayMap()
+kotlinx.coroutines.YieldContext: YieldContext()
+com.badlogic.gdx.Input$OnscreenKeyboardType: com.badlogic.gdx.Input$OnscreenKeyboardType[] values()
+com.badlogic.gdx.backends.android.DefaultAndroidInput$TouchEvent: DefaultAndroidInput$TouchEvent()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+com.badlogic.gdx.utils.LongMap: LongMap()
+com.badlogic.gdx.maps.tiled.TiledMapTile$BlendMode: com.badlogic.gdx.maps.tiled.TiledMapTile$BlendMode valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.World: long jniCreateBody(long,int,float,float,float,float,float,float,float,float,boolean,boolean,boolean,boolean,boolean,float)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: boolean loadChar(long,int,int)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+kotlin.UninitializedPropertyAccessException: UninitializedPropertyAccessException()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphSlot: int getFormat(long)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Element get(kotlin.coroutines.CoroutineContext$Key)
+com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: SelectBox$SelectBoxStyle()
+com.badlogic.gdx.scenes.scene2d.actions.RemoveActorAction: RemoveActorAction()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Stroker: void set(long,int,int,int,int)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+com.badlogic.gdx.graphics.g2d.BitmapFont$Glyph: BitmapFont$Glyph()
+com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator$Hinting: com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator$Hinting valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator$FreeTypeFontParameter: FreeTypeFontGenerator$FreeTypeFontParameter()
+com.badlogic.gdx.graphics.glutils.ETC1: boolean isValidPKM(java.nio.ByteBuffer,int)
+com.badlogic.gdx.graphics.TextureData$TextureDataType: com.badlogic.gdx.graphics.TextureData$TextureDataType valueOf(java.lang.String)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key getKey()
+kotlinx.coroutines.ExecutorCoroutineDispatcher: ExecutorCoroutineDispatcher()
+com.badlogic.gdx.graphics.glutils.GLFrameBuffer: GLFrameBuffer()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+kotlinx.coroutines.internal.LockFreeLinkedListNode: LockFreeLinkedListNode()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphSlot: long getGlyph(long)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+com.badlogic.gdx.utils.IntSet: IntSet()
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: java.lang.String getFailureReason()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphMetrics: int getHeight(long)
+com.badlogic.gdx.utils.BufferUtils: void freeMemory(java.nio.ByteBuffer)
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: ImageTextButton$ImageTextButtonStyle()
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: CheckBox$CheckBoxStyle()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Bitmap: java.nio.ByteBuffer getBuffer(long)
+com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle: Touchpad$TouchpadStyle()
+com.badlogic.gdx.graphics.g2d.PixmapPacker$SkylineStrategy$SkylinePage$Row: PixmapPacker$SkylineStrategy$SkylinePage$Row()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$GlyphSlot: long getMetrics(long)
+kotlin.coroutines.AbstractCoroutineContextElement: AbstractCoroutineContextElement(kotlin.coroutines.CoroutineContext$Key)
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+com.badlogic.gdx.utils.Array: Array()
+com.badlogic.gdx.graphics.Pixmap$Format: com.badlogic.gdx.graphics.Pixmap$Format[] values()
+com.badlogic.gdx.backends.android.DefaultAndroidInput$KeyEvent: DefaultAndroidInput$KeyEvent()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$SizeMetrics: int getDescender(long)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+com.badlogic.gdx.graphics.glutils.HdpiMode: com.badlogic.gdx.graphics.glutils.HdpiMode valueOf(java.lang.String)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: List$ListStyle()
+kotlin.jvm.internal.PropertyReference: PropertyReference()
+kotlinx.coroutines.internal.CtorCache: CtorCache()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Face: int getMaxAdvanceWidth(long)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Library: void doneFreeType(long)
+com.badlogic.gdx.physics.box2d.Fixture: void jniGetFilterData(long,short[])
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: Skin$TintedDrawable()
+com.badlogic.gdx.graphics.g2d.GlyphLayout$GlyphRun: GlyphLayout$GlyphRun()
+kotlinx.coroutines.scheduling.Task: Task()
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Size: long getMetrics(long)
+com.badlogic.gdx.scenes.scene2d.utils.NinePatchDrawable: NinePatchDrawable()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType: com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Pixmap$Format: com.badlogic.gdx.graphics.Pixmap$Format valueOf(java.lang.String)
+kotlinx.coroutines.scheduling.SchedulerTimeSource: SchedulerTimeSource()
+com.badlogic.gdx.physics.box2d.World: boolean contactFilter(long,long)
+com.badlogic.gdx.graphics.glutils.ETC1: int getWidthPKM(java.nio.ByteBuffer,int)
+com.badlogic.gdx.graphics.g2d.TextureRegion: TextureRegion()
+com.badlogic.gdx.scenes.scene2d.utils.SpriteDrawable: SpriteDrawable()
+com.badlogic.gdx.scenes.scene2d.Touchable: com.badlogic.gdx.scenes.scene2d.Touchable valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.actions.AlphaAction: AlphaAction()
+kotlin.jvm.internal.ReflectionFactory: ReflectionFactory()
+com.badlogic.gdx.controllers.AbstractControllerManager: AbstractControllerManager()
+com.badlogic.gdx.Application$ApplicationType: com.badlogic.gdx.Application$ApplicationType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph: long getBitmap(long)
+kotlin.internal.jdk8.JDK8PlatformImplementations: JDK8PlatformImplementations()
+kotlinx.coroutines.EventLoopImplBase: EventLoopImplBase()
+com.badlogic.gdx.backends.android.AndroidApplication: AndroidApplication()
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: java.nio.ByteBuffer load(long[],byte[],int,int)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$SizeMetrics: int getHeight(long)
+kotlinx.coroutines.CoroutineDispatcher: CoroutineDispatcher()
+com.badlogic.gdx.utils.IntIntMap: IntIntMap()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.badlogic.gdx.graphics.g2d.GlyphLayout: GlyphLayout()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: int getPixel(long,int,int)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Glyph: long strokeBorder(long,long,boolean)
+com.badlogic.gdx.physics.box2d.World: void postSolve(long,long)
+com.badlogic.gdx.graphics.g2d.freetype.FreeType$Bitmap: int getPitch(long)
+kotlin.random.Random: Random()
+com.badlogic.gdx.physics.box2d.PolygonShape: void jniSetAsBox(long,float,float)
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: Label$LabelStyle()
+com.badlogic.gdx.utils.IntMap: IntMap()
+com.badlogic.gdx.utils.SharedLibraryLoader: SharedLibraryLoader()

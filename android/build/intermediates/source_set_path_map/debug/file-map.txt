@@ -1,0 +1,17 @@
+com.insearchoftheperfectcuisine.game.android-annotation-experimental-1.1.0-0 C:\Users\luciu\.gradle\caches\transforms-3\13709ef05e6ce0c33d0a4fbac727b555\transformed\annotation-experimental-1.1.0\res
+com.insearchoftheperfectcuisine.game.android-lifecycle-viewmodel-2.5.1-1 C:\Users\luciu\.gradle\caches\transforms-3\2018c491237da949f43b39ad0b292051\transformed\lifecycle-viewmodel-2.5.1\res
+com.insearchoftheperfectcuisine.game.android-activity-1.5.1-2 C:\Users\luciu\.gradle\caches\transforms-3\2fbd4012a96e991ff117abcb704dceb1\transformed\activity-1.5.1\res
+com.insearchoftheperfectcuisine.game.android-fragment-1.5.7-3 C:\Users\luciu\.gradle\caches\transforms-3\33fa74ef3adc7aa8793bc96ddce7df31\transformed\fragment-1.5.7\res
+com.insearchoftheperfectcuisine.game.android-core-1.8.0-4 C:\Users\luciu\.gradle\caches\transforms-3\aeb001bdfed761effd88501992ae669a\transformed\core-1.8.0\res
+com.insearchoftheperfectcuisine.game.android-lifecycle-viewmodel-savedstate-2.5.1-5 C:\Users\luciu\.gradle\caches\transforms-3\b82ea16ec8be516fef1a903f0d0d1c60\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.insearchoftheperfectcuisine.game.android-savedstate-1.2.0-6 C:\Users\luciu\.gradle\caches\transforms-3\c8b10744e7a2e52f9d5451c936210b14\transformed\savedstate-1.2.0\res
+com.insearchoftheperfectcuisine.game.android-lifecycle-runtime-2.5.1-7 C:\Users\luciu\.gradle\caches\transforms-3\d895f219787724774ad35524557f30ae\transformed\lifecycle-runtime-2.5.1\res
+com.insearchoftheperfectcuisine.game.android-lifecycle-livedata-core-2.5.1-8 C:\Users\luciu\.gradle\caches\transforms-3\daf558e5c8814d84b3937873744df664\transformed\lifecycle-livedata-core-2.5.1\res
+com.insearchoftheperfectcuisine.game.android-pngs-9 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\generated\res\pngs\debug
+com.insearchoftheperfectcuisine.game.android-resValues-10 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\generated\res\resValues\debug
+com.insearchoftheperfectcuisine.game.android-rs-11 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\generated\res\rs\debug
+com.insearchoftheperfectcuisine.game.android-mergeDebugResources-12 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.insearchoftheperfectcuisine.game.android-mergeDebugResources-13 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.insearchoftheperfectcuisine.game.android-merged_res-14 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\build\intermediates\merged_res\debug
+com.insearchoftheperfectcuisine.game.android-android-15 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\res
+com.insearchoftheperfectcuisine.game.android-debug-16 C:\Users\luciu\eclipse-workspace\MeuJogoMobile\android\src\debug\res
