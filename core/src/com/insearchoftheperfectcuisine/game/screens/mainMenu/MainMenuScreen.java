@@ -53,6 +53,9 @@ public class MainMenuScreen extends BaseScreen {
     Table mainMenuTable;
     Sound hoverSound;
 
+    FreeTypeFontGenerator maruMonica36Font;
+    FreeTypeFontParameter maruMonica36Param;
+
     public MainMenuScreen(Game game) {
         super(game);
         this.game = game;
@@ -78,8 +81,7 @@ public class MainMenuScreen extends BaseScreen {
         Gdx.input.setInputProcessor(stage);
         hoverSound = Gdx.audio.newSound(Gdx.files.internal("sounds/cursor.wav"));
 
-        FreeTypeFontGenerator maruMonica36Font = new FreeTypeFontGenerator(Gdx.files.internal("fonts/MaruMonica.ttf"));
-        FreeTypeFontParameter maruMonica36Param = new FreeTypeFontParameter();
+        maruMonica36Font = new FreeTypeFontGenerator(Gdx.files.internal("fonts/MaruMonica.ttf"));maruMonica36Param = new FreeTypeFontParameter();
         maruMonica36Param.size = 36;
         maruMonica36Param.mono = false;
         maruMonica36Param.color = Color.WHITE;
@@ -268,5 +270,6 @@ public class MainMenuScreen extends BaseScreen {
         backgroundTexture.dispose();
         hoverSound.dispose();
         skin.dispose();
+        maruMonica36Font.dispose();
     }
 }
