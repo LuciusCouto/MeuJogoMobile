@@ -6,66 +6,19 @@
     "black": {"a": 1, "b": 0, "g": 0, "r": 0},
     "gray": {"a": 1, "b": 0.8, "g": 0.8, "r": 0.8}
   },
-  "com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator": {
-    "MaruMonica36": {
-      "font": "../../../fonts/MaruMonica.ttf",
-      "size": 30,
-      "mono": false,
-      "color": white,
-      "gamma": 1.8,
-      "renderCount": 2,
-      "borderWidth": 1,
-      "borderColor": black,
-      "borderStraight": false,
-      "borderGamma": 1.8,
-      "shadowOffsetX": 0,
-      "shadowOffsetY": 1,
-      "shadowColor": black,
-      "spaceX": 0,
-      "spaceY": 40,
-      "kerning": true,
-      "flip": false,
-      "genMipMaps": true,
-      "incremental": false,
-      "hinting": Full,
-      "minFilter": MipMapLinearLinear,
-      "magFilter": Linear
-    }
-    "MaruMonica24": {
-      "font": "../../../fonts/MaruMonica.ttf",
-      "size": 24,
-      "mono": false,
-      "color": white,
-      "gamma": 1.8,
-      "renderCount": 2,
-      "borderWidth": 1,
-      "borderColor": black,
-      "borderStraight": false,
-      "borderGamma": 1.8,
-      "shadowOffsetX": 0,
-      "shadowOffsetY": 1,
-      "shadowColor": black,
-      "spaceX": 0,
-      "spaceY": 40,
-      "kerning": true,
-      "flip": false,
-      "genMipMaps": true,
-      "incremental": false,
-      "hinting": Full,
-      "minFilter": MipMapLinearLinear,
-      "magFilter": Linear
-    }
-  },
   "LabelStyle": {
     "default": {
+      "fontColor": "white",
       "font": "MaruMonica36"
     },
     "inputLabel": {
+      "fontColor": "white",
       "font": "MaruMonica36"
     }
   },
   "TextButtonStyle": {
     "default": {
+      "fontColor": "white",
       "font": "MaruMonica36"
       "up": null,
       "down": null
@@ -102,6 +55,7 @@
   },
   "CheckBoxStyle": {
     "default": {
+      "fontColor": "white",
       "font": "MaruMonica36",
       "checkboxOff": "checkboxOff",
       "checkboxOn": "checkboxOn"
@@ -109,11 +63,11 @@
   },
   "TextFieldStyle": {
     "default": {
-        "font": "MaruMonica36",
-        "fontColor": "white",
-        "disabledFontColor": "gray",
-        "background": "textFieldBackground",
-        "cursor": "cursorNinePatch"
+      "fontColor": "white",
+      "font": "MaruMonica36",
+      "disabledFontColor": "gray",
+      "background": "textFieldBackground",
+      "cursor": "cursorNinePatch"
     }
   }
   "com.ray3k.tenpatch.TenPatchDrawable": {
@@ -132,6 +86,7 @@
   }
   "SelectBoxStyle": {
     "default": {
+      "fontColor": "white",
       "font": "MaruMonica24",
       "scrollStyle": "SelectBoxScrollStyle",
       "background": "SelectBoxTenPatch",

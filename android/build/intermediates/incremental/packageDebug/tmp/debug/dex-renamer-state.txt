@@ -1,4 +1,4 @@
-#Mon Dec 11 23:20:50 BRT 2023
+#Tue Dec 12 22:06:36 BRT 2023
 base.0=C\:\\Users\\luciu\\eclipse-workspace\\MeuJogoMobile\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -8,14 +8,17 @@ import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.audio.Sound;
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Cursor;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.NinePatch;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
+import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
 import com.badlogic.gdx.scenes.scene2d.Actor;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.InputListener;
@@ -89,11 +92,7 @@ public class newSettingsScreen extends BaseScreen {
 	// General Table
 	Label generalTitleLabel;
 	Label languageLabel;
-	String[] languageOptions = {LocalizationManager.get("mainMenuSettings.general.language.english"), 
-			LocalizationManager.get("mainMenuSettings.general.language.portuguese"),
-			LocalizationManager.get("mainMenuSettings.general.language.portuguesePortugal"),
-			LocalizationManager.get("mainMenuSettings.general.language.latin"),
-			LocalizationManager.get("mainMenuSettings.general.language.chineseSimple")};
+	String[] languageOptions;
 	
 	SelectBox<String> languageSelect;
 	
@@ -120,6 +119,11 @@ public class newSettingsScreen extends BaseScreen {
 		gameSettings = new GameSettings();
 		new LocalizationManager();
 		LocalizationManager.load(gameSettings.getLanguage());
+		languageOptions = new String[] {LocalizationManager.get("mainMenuSettings.general.language.english"),
+				LocalizationManager.get("mainMenuSettings.general.language.portuguese"),
+				LocalizationManager.get("mainMenuSettings.general.language.portuguesePortugal"),
+				LocalizationManager.get("mainMenuSettings.general.language.latin"),
+				LocalizationManager.get("mainMenuSettings.general.language.chineseSimple")};
 		unitScale = main.unitScale;
 		camera = new OrthographicCamera();
 		stageViewport = new ScreenViewport();
@@ -144,8 +148,58 @@ public class newSettingsScreen extends BaseScreen {
 		NinePatch ninePatchVScroll = new NinePatch(txtAtlas.findRegion("vScroll"), 10, 10, 10, 10);
 		NinePatch ninePatchListBackground = new NinePatch(txtAtlas.findRegion("listBackground"), 5, 5, 5, 5);
 
+		FreeTypeFontGenerator maruMonica36Font = new FreeTypeFontGenerator(Gdx.files.internal("fonts/MaruMonica.ttf"));
+		FreeTypeFontGenerator.FreeTypeFontParameter maruMonica36Param = new FreeTypeFontGenerator.FreeTypeFontParameter();
+		maruMonica36Param.size = 36;
+		maruMonica36Param.mono = false;
+		maruMonica36Param.color = Color.WHITE;
+		maruMonica36Param.gamma = 1.8f;
+		maruMonica36Param.renderCount = 2;
+		maruMonica36Param.borderWidth = 1;
+		maruMonica36Param.borderColor = Color.BLACK;
+		maruMonica36Param.borderStraight = false;
+		maruMonica36Param.borderGamma = 1.8f;
+		maruMonica36Param.shadowOffsetX = 0;
+		maruMonica36Param.shadowOffsetY = 1;
+		maruMonica36Param.shadowColor = Color.BLACK;
+		maruMonica36Param.spaceX = 0;
+		maruMonica36Param.spaceY = 40;
+		maruMonica36Param.kerning = true;
+		maruMonica36Param.incremental = false;
+		maruMonica36Param.hinting = FreeTypeFontGenerator.Hinting.Full;
+		maruMonica36Param.minFilter = Texture.TextureFilter.MipMapLinearLinear;
+		maruMonica36Param.magFilter = Texture.TextureFilter.Linear;
+
+		BitmapFont MaruMonica36 = maruMonica36Font.generateFont(maruMonica36Param);
+
+		FreeTypeFontGenerator maruMonica24Font = new FreeTypeFontGenerator(Gdx.files.internal("fonts/MaruMonica.ttf"));
+		FreeTypeFontGenerator.FreeTypeFontParameter maruMonica24Param = new FreeTypeFontGenerator.FreeTypeFontParameter();
+		maruMonica24Param.size = 24;
+		maruMonica24Param.mono = false;
+		maruMonica24Param.color = Color.WHITE;
+		maruMonica24Param.gamma = 1.8f;
+		maruMonica24Param.renderCount = 2;
+		maruMonica24Param.borderWidth = 1;
+		maruMonica24Param.borderColor = Color.BLACK;
+		maruMonica24Param.borderStraight = false;
+		maruMonica24Param.borderGamma = 1.8f;
+		maruMonica24Param.shadowOffsetX = 0;
+		maruMonica24Param.shadowOffsetY = 1;
+		maruMonica24Param.shadowColor = Color.BLACK;
+		maruMonica24Param.spaceX = 0;
+		maruMonica24Param.spaceY = 40;
+		maruMonica24Param.kerning = true;
+		maruMonica24Param.incremental = false;
+		maruMonica24Param.hinting = FreeTypeFontGenerator.Hinting.Full;
+		maruMonica24Param.minFilter = Texture.TextureFilter.MipMapLinearLinear;
+		maruMonica24Param.magFilter = Texture.TextureFilter.Linear;
+
+		BitmapFont MaruMonica24 = maruMonica24Font.generateFont(maruMonica24Param);
+
 		skin = new com.ray3k.stripe.FreeTypeSkin();
 		skin.addRegions(txtAtlas);
+		skin.add("MaruMonica36", MaruMonica36);
+		skin.add("MaruMonica24", MaruMonica24);
 		skin.add("vScroll", ninePatchVScroll);
 		skin.add("textFieldBackground", ninePatchTextField);
 		skin.add("cursorNinePatch", ninePatchCursor);

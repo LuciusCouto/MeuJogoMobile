@@ -77,8 +77,33 @@ public class MainMenuScreen extends BaseScreen {
         backgroundSprite.setSize(batchViewport.getWorldWidth(), batchViewport.getWorldHeight());
         Gdx.input.setInputProcessor(stage);
         hoverSound = Gdx.audio.newSound(Gdx.files.internal("sounds/cursor.wav"));
-		
-		skin = new com.ray3k.stripe.FreeTypeSkin();
+
+        FreeTypeFontGenerator maruMonica36Font = new FreeTypeFontGenerator(Gdx.files.internal("fonts/MaruMonica.ttf"));
+        FreeTypeFontParameter maruMonica36Param = new FreeTypeFontParameter();
+        maruMonica36Param.size = 36;
+        maruMonica36Param.mono = false;
+        maruMonica36Param.color = Color.WHITE;
+        maruMonica36Param.gamma = 1.8f;
+        maruMonica36Param.renderCount = 2;
+        maruMonica36Param.borderWidth = 1;
+        maruMonica36Param.borderColor = Color.BLACK;
+        maruMonica36Param.borderStraight = false;
+        maruMonica36Param.borderGamma = 1.8f;
+        maruMonica36Param.shadowOffsetX = 0;
+        maruMonica36Param.shadowOffsetY = 1;
+        maruMonica36Param.shadowColor = Color.BLACK;
+        maruMonica36Param.spaceX = 0;
+        maruMonica36Param.spaceY = 40;
+        maruMonica36Param.kerning = true;
+        maruMonica36Param.incremental = false;
+        maruMonica36Param.hinting = FreeTypeFontGenerator.Hinting.Full;
+        maruMonica36Param.minFilter = Texture.TextureFilter.MipMapLinearLinear;
+        maruMonica36Param.magFilter = Texture.TextureFilter.Linear;
+
+        BitmapFont MaruMonica36 = maruMonica36Font.generateFont(maruMonica36Param);
+
+        skin = new com.ray3k.stripe.FreeTypeSkin();
+        skin.add("MaruMonicaFont", MaruMonica36);
 		skin.load(Gdx.files.internal("skins/mainMenu/mainMenu/mainMenuSkin.json"));
 		
         titleLabel = new Label("In Search of the Perfect Cuisine", skin); // Substitua pelo título do seu jogo
